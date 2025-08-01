@@ -1,0 +1,471 @@
+[
+  {
+    "hari": "Senin",
+    "kelas": "VI (Padmanaba)",
+    "mapel": "Agama Hindu",
+    "tutor": "Pande Putu Ramade Putra Pratama, S.Pd.H.",
+    "waktu": "Jam ke-1"
+  },
+  {
+    "hari": "Senin",
+    "kelas": "VI (Padmanaba)",
+    "mapel": "Pendidikan Pancasila",
+    "tutor": "Dewa Ayu Sri Antari, S.Pd.",
+    "waktu": "Jam ke-2"
+  },
+  {
+    "hari": "Selasa",
+    "kelas": "VI (Padmanaba)",
+    "mapel": "Keterampilan",
+    "tutor": "Pande Nyoman Gede Mudita, S.Ag., M.Pd.H.",
+    "waktu": "Jam ke-1"
+  },
+  {
+    "hari": "Selasa",
+    "kelas": "VI (Padmanaba)",
+    "mapel": "Bahasa Indonesia",
+    "tutor": "Ni Nyoman Partini, S.Pd.",
+    "waktu": "Jam ke-2"
+  },
+  {
+    "hari": "Rabu",
+    "kelas": "VI (Padmanaba)",
+    "mapel": "Pemberdayaan",
+    "tutor": "Ni Putu Yasmini, S.Pd.",
+    "waktu": "Jam ke-1"
+  },
+  {
+    "hari": "Rabu",
+    "kelas": "VI (Padmanaba)",
+    "mapel": "PJOK",
+    "tutor": "I Putu Hedi Susetya, S.Pd",
+    "waktu": "Jam ke-2"
+  },
+  {
+    "hari": "Kamis",
+    "kelas": "VI (Padmanaba)",
+    "mapel": "Muatan Lokal",
+    "tutor": "Pande Nyoman Gede Mudita, S.Ag., M.Pd.H.",
+    "waktu": "Jam ke-1"
+  },
+  {
+    "hari": "Kamis",
+    "kelas": "VI (Padmanaba)",
+    "mapel": "Bahasa Inggris",
+    "tutor": "I Made Lena Putra, S.Pd.",
+    "waktu": "Jam ke-2"
+  },
+  {
+    "hari": "Jumat",
+    "kelas": "VI (Padmanaba)",
+    "mapel": "Seni Budaya",
+    "tutor": "I Putu Yahdi Karnawan, S.Pd.",
+    "waktu": "Jam ke-1"
+  },
+  {
+    "hari": "Jumat",
+    "kelas": "VI (Padmanaba)",
+    "mapel": "IPAS",
+    "tutor": "Putu Maylia Savitri, S.Pd.",
+    "waktu": "Jam ke-2"
+  },
+  {
+    "hari": "Sabtu",
+    "kelas": "VI (Padmanaba)",
+    "mapel": "Matematika",
+    "tutor": "Eka Aryani, S.Pd.",
+    "waktu": "Jam ke-2"
+  },
+  {
+    "hari": "Senin",
+    "kelas": "IX (Wiracarita)",
+    "mapel": "Pendidikan Pancasila",
+    "tutor": "Dewa Ayu Sri Antari, S.Pd.",
+    "waktu": "Jam ke-1"
+  },
+  {
+    "hari": "Senin",
+    "kelas": "IX (Wiracarita)",
+    "mapel": "Pendidikan Agama dan Budi Pekerti",
+    "tutor": "Pande Putu Ramade Putra Pratama, S.Pd.H.",
+    "waktu": "Jam ke-2"
+  },
+  {
+    "hari": "Selasa",
+    "kelas": "IX (Wiracarita)",
+    "mapel": "Bahasa Indonesia",
+    "tutor": "Ni Nyoman Partini, S.Pd.",
+    "waktu": "Jam ke-1"
+  },
+  {
+    "hari": "Selasa",
+    "kelas": "IX (Wiracarita)",
+    "mapel": "Pemberdayaan",
+    "tutor": "Ni Nyoman Partini, S.Pd.",
+    "waktu": "Jam ke-2"
+  },
+  {
+    "hari": "Rabu",
+    "kelas": "IX (Wiracarita)",
+    "mapel": "PJOK",
+    "tutor": "I Putu Hedi Susetya, S.Pd",
+    "waktu": "Jam ke-1"
+  },
+  {
+    "hari": "Rabu",
+    "kelas": "IX (Wiracarita)",
+    "mapel": "IPS",
+    "tutor": "Ni Putu Yasmini, S.Pd.",
+    "waktu": "Jam ke-2"
+  },
+  {
+    "hari": "Kamis",
+    "kelas": "IX (Wiracarita)",
+    "mapel": "Bahasa Inggris",
+    "tutor": "I Made Lena Putra, S.Pd.",
+    "waktu": "Jam ke-1"
+  },
+  {
+    "hari": "Kamis",
+    "kelas": "IX (Wiracarita)",
+    "mapel": "Muatan Lokal",
+    "tutor": "Pande Nyoman Gede Mudita, S.Ag., M.Pd.H.",
+    "waktu": "Jam ke-2"
+  },
+  {
+    "hari": "Jumat",
+    "kelas": "IX (Wiracarita)",
+    "mapel": "IPA",
+    "tutor": "Putu Maylia Savitri, S.Pd.",
+    "waktu": "Jam ke-1"
+  },
+  {
+    "hari": "Jumat",
+    "kelas": "IX (Wiracarita)",
+    "mapel": "Seni Budaya",
+    "tutor": "I Putu Yahdi Karnawan, S.Pd.",
+    "waktu": "Jam ke-2"
+  },
+  {
+    "hari": "Sabtu",
+    "kelas": "IX (Wiracarita)",
+    "mapel": "Matematika",
+    "tutor": "Eka Aryani, S.Pd.",
+    "waktu": "Jam ke-1"
+  },
+  {
+    "hari": "Sabtu",
+    "kelas": "IX (Wiracarita)",
+    "mapel": "Keterampilan",
+    "tutor": "I Wayan Sari Budi Astawa, S.Pd.",
+    "waktu": "Jam ke-1"
+  },
+  {
+    "hari": "Senin",
+    "kelas": "X (Parta)",
+    "mapel": "Matematika",
+    "tutor": "Eka Aryani, S.Pd.",
+    "waktu": "Jam ke-1"
+  },
+  {
+    "hari": "Senin",
+    "kelas": "X (Parta)",
+    "mapel": "IPS",
+    "tutor": "I Nyoman Budiana, S.Pd.",
+    "waktu": "Jam ke-2"
+  },
+  {
+    "hari": "Selasa",
+    "kelas": "X (Parta)",
+    "mapel": "Bahasa Bali",
+    "tutor": "Pande Nyoman Gede Mudita, S.Ag., M.Pd.H.",
+    "waktu": "Jam ke-1"
+  },
+  {
+    "hari": "Selasa",
+    "kelas": "X (Parta)",
+    "mapel": "PJOK",
+    "tutor": "I Putu Hedi Susetya, S.Pd",
+    "waktu": "Jam ke-2"
+  },
+  {
+    "hari": "Rabu",
+    "kelas": "X (Parta)",
+    "mapel": "Pendidikan Agama dan Budi Pekerti",
+    "tutor": "Pande Putu Ramade Putra Pratama, S.Pd.H.",
+    "waktu": "Jam ke-1"
+  },
+  {
+    "hari": "Rabu",
+    "kelas": "X (Parta)",
+    "mapel": "Bahasa Indonesia",
+    "tutor": "Ni Nyoman Partini, S.Pd.",
+    "waktu": "Jam ke-2"
+  },
+  {
+    "hari": "Kamis",
+    "kelas": "X (Parta)",
+    "mapel": "Matematika Tingkat Lanjut",
+    "tutor": "Eka Aryani, S.Pd.",
+    "waktu": "Jam ke-1"
+  },
+  {
+    "hari": "Kamis",
+    "kelas": "X (Parta)",
+    "mapel": "Pendidikan Pancasila",
+    "tutor": "Dewa Ayu Sri Antari, S.Pd.",
+    "waktu": "Jam ke-2"
+  },
+  {
+    "hari": "Jumat",
+    "kelas": "X (Parta)",
+    "mapel": "Bahasa Inggris",
+    "tutor": "I Made Lena Putra, S.Pd.",
+    "waktu": "Jam ke-1"
+  },
+  {
+    "hari": "Sabtu",
+    "kelas": "X (Parta)",
+    "mapel": "IPA",
+    "tutor": "Putu Maylia Savitri, S.Pd.",
+    "waktu": "Jam ke-1"
+  },
+  {
+    "hari": "Sabtu",
+    "kelas": "X (Parta)",
+    "mapel": "Seni Budaya",
+    "tutor": "Gede Adistana Wira Saputra, S.Pd., M.Hum.",
+    "waktu": "Jam ke-2"
+  },
+  {
+    "hari": "Sabtu",
+    "kelas": "X (Parta)",
+    "mapel": "Seni Budaya",
+    "tutor": "Gede Adistana Wira Saputra, S.Pd., M.Hum.",
+    "waktu": "Jam ke-2"
+  },
+  {
+    "hari": "Senin",
+    "kelas": "XI (Arjuna Wiwaha)",
+    "mapel": "Geografi",
+    "tutor": "I Putu Yahdi Karnawan, S.Pd.",
+    "waktu": "Jam ke-1"
+  },
+  {
+    "hari": "Senin",
+    "kelas": "XI (Arjuna Wiwaha)",
+    "mapel": "Matematika",
+    "tutor": "Eka Aryani, S.Pd.",
+    "waktu": "Jam ke-2"
+  },
+  {
+    "hari": "Senin",
+    "kelas": "XI (Arjuna Wiwaha)",
+    "mapel": "Sejarah",
+    "tutor": "I Nyoman Budiana, S.Pd.",
+    "waktu": "Jam ke-3"
+  },
+  {
+    "hari": "Selasa",
+    "kelas": "XI (Arjuna Wiwaha)",
+    "mapel": "Ekonomi",
+    "tutor": "Ni Putu Yasmini, S.Pd.",
+    "waktu": "Jam ke-1"
+  },
+  {
+    "hari": "Selasa",
+    "kelas": "XI (Arjuna Wiwaha)",
+    "mapel": "Bahasa Bali",
+    "tutor": "Pande Nyoman Gede Mudita, S.Ag., M.Pd.H.",
+    "waktu": "Jam ke-2"
+  },
+  {
+    "hari": "Selasa",
+    "kelas": "XI (Arjuna Wiwaha)",
+    "mapel": "PJOK",
+    "tutor": "I Putu Hedi Susetya, S.Pd",
+    "waktu": "Jam ke-3"
+  },
+  {
+    "hari": "Rabu",
+    "kelas": "XI (Arjuna Wiwaha)",
+    "mapel": "Biologi",
+    "tutor": "I Wayan Sari Budi Astawa, S.Pd.",
+    "waktu": "Jam ke-1"
+  },
+  {
+    "hari": "Rabu",
+    "kelas": "XI (Arjuna Wiwaha)",
+    "mapel": "Pendidikan Agama dan Budi Pekerti",
+    "tutor": "Pande Putu Ramade Putra Pratama, S.Pd.H.",
+    "waktu": "Jam ke-2"
+  },
+  {
+    "hari": "Rabu",
+    "kelas": "XI (Arjuna Wiwaha)",
+    "mapel": "Bahasa Indonesia",
+    "tutor": "Ni Nyoman Partini, S.Pd.",
+    "waktu": "Jam ke-3"
+  },
+  {
+    "hari": "Kamis",
+    "kelas": "XI (Arjuna Wiwaha)",
+    "mapel": "Antropologi",
+    "tutor": "Ni Putu Yasmini, S.Pd.",
+    "waktu": "Jam ke-1"
+  },
+  {
+    "hari": "Kamis",
+    "kelas": "XI (Arjuna Wiwaha)",
+    "mapel": "Matematika Tingkat Lanjut",
+    "tutor": "Eka Aryani, S.Pd.",
+    "waktu": "Jam ke-2"
+  },
+  {
+    "hari": "Kamis",
+    "kelas": "XI (Arjuna Wiwaha)",
+    "mapel": "Pendidikan Pancasila",
+    "tutor": "Dewa Ayu Sri Antari, S.Pd.",
+    "waktu": "Jam ke-3"
+  },
+  {
+    "hari": "Jumat",
+    "kelas": "XI (Arjuna Wiwaha)",
+    "mapel": "Bahasa Inggris",
+    "tutor": "I Made Lena Putra, S.Pd.",
+    "waktu": "Jam ke-2"
+  },
+  {
+    "hari": "Sabtu",
+    "kelas": "XI (Arjuna Wiwaha)",
+    "mapel": "Seni Budaya",
+    "tutor": "",
+    "waktu": "Jam ke-1"
+  },
+  {
+    "hari": "Sabtu",
+    "kelas": "XI (Arjuna Wiwaha)",
+    "mapel": "Informatika",
+    "tutor": "Eka Setya Lini, S.Ag, M.Pd",
+    "waktu": "Jam ke-2"
+  },
+  {
+    "hari": "Sabtu",
+    "kelas": "XI (Arjuna Wiwaha)",
+    "mapel": "Sosiologi",
+    "tutor": "Putu Maylia Savitri, S.Pd.",
+    "waktu": "Jam ke-3"
+  },
+  {
+    "hari": "Senin",
+    "kelas": "XII (Narayana)",
+    "mapel": "Sejarah",
+    "tutor": "I Nyoman Budiana, S.Pd.",
+    "waktu": "Jam ke-1"
+  },
+  {
+    "hari": "Senin",
+    "kelas": "XII (Narayana)",
+    "mapel": "Geografi",
+    "tutor": "I Putu Yahdi Karnawan, S.Pd",
+    "waktu": "Jam ke-2"
+  },
+  {
+    "hari": "Senin",
+    "kelas": "XII (Narayana)",
+    "mapel": "Matematika",
+    "tutor": "Eka Aryani, S.Pd.",
+    "waktu": "Jam ke-3"
+  },
+  {
+    "hari": "Selasa",
+    "kelas": "XII (Narayana)",
+    "mapel": "PJOK",
+    "tutor": "I Putu Hedi Susetya, S.Pd",
+    "waktu": "Jam ke-2"
+  },
+  {
+    "hari": "Selasa",
+    "kelas": "XII (Narayana)",
+    "mapel": "Ekonomi",
+    "tutor": "Ni Putu Yasmini, S.Pd.",
+    "waktu": "Jam ke-2"
+  },
+  {
+    "hari": "Selasa",
+    "kelas": "XII (Narayana)",
+    "mapel": "Bahasa Bali",
+    "tutor": "Pande Nyoman Gede Mudita, S.Ag., M.Pd.H.",
+    "waktu": "Jam ke-3"
+  },
+  {
+    "hari": "Rabu",
+    "kelas": "XII (Narayana)",
+    "mapel": "Bahasa Indonesia",
+    "tutor": "Ni Nyoman Partini, S.Pd.",
+    "waktu": "Jam ke-1"
+  },
+  {
+    "hari": "Rabu",
+    "kelas": "XII (Narayana)",
+    "mapel": "Biologi",
+    "tutor": "I Wayan Sari Budi Astawa, S.Pd.",
+    "waktu": "Jam ke-2"
+  },
+  {
+    "hari": "Rabu",
+    "kelas": "XII (Narayana)",
+    "mapel": "Pendidikan Agama dan Budi Pekerti",
+    "tutor": "Pande Putu Ramade Putra Pratama, S.Pd.H.",
+    "waktu": "Jam ke-3"
+  },
+  {
+    "hari": "Kamis",
+    "kelas": "XII (Narayana)",
+    "mapel": "Pendidikan Pancasila",
+    "tutor": "Dewa Ayu Sri Antari, S.Pd.",
+    "waktu": "Jam ke-1"
+  },
+  {
+    "hari": "Kamis",
+    "kelas": "XII (Narayana)",
+    "mapel": "Antropologi",
+    "tutor": "Ni Putu Yasmini, S.Pd.",
+    "waktu": "Jam ke-2"
+  },
+  {
+    "hari": "Kamis",
+    "kelas": "XII (Narayana)",
+    "mapel": "Matematika Tingkat Lanjut",
+    "tutor": "Eka Aryani, S.Pd.",
+    "waktu": "Jam ke-3"
+  },
+  {
+    "hari": "Jumat",
+    "kelas": "XII (Narayana)",
+    "mapel": "Bahasa Inggris",
+    "tutor": "I Made Lena Putra, S.Pd.",
+    "waktu": "Jam ke-3"
+  },
+  {
+    "hari": "Sabtu",
+    "kelas": "XII (Narayana)",
+    "mapel": "Informatika",
+    "tutor": "Eka Setya Lini, S.Ag, M.Pd.",
+    "waktu": "Jam ke-1"
+  },
+  {
+    "hari": "Sabtu",
+    "kelas": "XII (Narayana)",
+    "mapel": "Sosiologi",
+    "tutor": "Putu Maylia Savitri, S.Pd.",
+    "waktu": "Jam ke-2"
+  },
+  {
+    "hari": "Sabtu",
+    "kelas": "XII (Narayana)",
+    "mapel": "Seni Budaya",
+    "tutor": "Gede Adistana Wira Saputra, S.Pd., M.Hum.",
+    "waktu": "Jam ke-3"
+  }
+]

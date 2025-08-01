@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Jadwal PKBM Widya Asrama</title>
+  </head>
+  <body>
+    <div class="header">
+      <h1>Jadwal PKBM Widya Asrama</h1>
+      <p>Tahun Ajaran 2025/2026</p>
+    </div>
+    <section class="filter">
+      <div class="filter-bar">
+        <div class="filter-label">
+          <p>Hari</p>
+          <div class="dropdown" id="dropdownHari">
+            <div class="dropdown-btn" id="dropdownBtn">
+              <span class="selected-text">Pilih hari</span>
+              <img class="arrow" id="arrow" src="icon/icon-dropdown.svg" />
+            </div>
+            <div class="dropdown-content">
+              <div class="dropdown-item">Senin</div>
+              <div class="dropdown-item">Selasa</div>
+              <div class="dropdown-item">Rabu</div>
+              <div class="dropdown-item">Kamis</div>
+              <div class="dropdown-item">Jumat</div>
+              <div class="dropdown-item">Sabtu</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="filter-label">
+          <p>Kelas</p>
+          <div class="dropdown" id="dropdownKelas">
+            <div class="dropdown-btn" id="dropdownBtn">
+              <span class="selected-text">Pilih kelas</span>
+              <img class="arrow" id="arrow" src="icon/icon-dropdown.svg" />
+            </div>
+            <div class="dropdown-content">
+              <div class="dropdown-item">VI (Padmanaba)</div>
+              <div class="dropdown-item">IX (Wiracarita)</div>
+              <div class="dropdown-item">X (Parta)</div>
+              <div class="dropdown-item">XI (Arjuna Wiwaha)</div>
+              <div class="dropdown-item">XII (Narayana)</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="filter-label">
+          <p>Tutor</p>
+          <div class="dropdown" id="dropdownTutor">
+            <div class="dropdown-btn" id="dropdownBtn">
+              <span class="selected-text">Pilih tutor</span>
+              <img class="arrow" id="arrow" src="icon/icon-dropdown.svg" />
+            </div>
+            <div class="dropdown-content">
+              <div class="dropdown-item">Eka Aryani, S.Pd.</div>
+              <div class="dropdown-item">Eka Setya Lini, S.Ag, M.Pd</div>
+              <div class="dropdown-item">
+                Gede Adistana Wira Saputra, S.Pd., M.Hum.
+              </div>
+              <div class="dropdown-item">Dewa Ayu Sri Antari, S.Pd.</div>
+              <div class="dropdown-item">I Made Lena Putra, S.Pd.</div>
+              <div class="dropdown-item">I Nyoman Budiana, S.Pd.</div>
+              <div class="dropdown-item">I Putu Hedi Susetya, S.Pd</div>
+              <div class="dropdown-item">I Putu Yahdi Karnawan, S.Pd.</div>
+              <div class="dropdown-item">I Wayan Sari Budi Astawa, S.Pd.</div>
+              <div class="dropdown-item">Ni Nyoman Partini, S.Pd.</div>
+              <div class="dropdown-item">Ni Putu Yasmini, S.Pd.</div>
+              <div class="dropdown-item">
+                Pande Nyoman Gede Mudita, S.Ag., M.Pd.H.
+              </div>
+              <div class="dropdown-item">
+                Pande Putu Ramade Putra Pratama, S.Pd.H.
+              </div>
+              <div class="dropdown-item">Putu Maylia Savitri, S.Pd.</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <div class="card-container" id="card-container"></div>
+    <script src="script.js"></script>
+  </body>
+</html>
