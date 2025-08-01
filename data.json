@@ -45,7 +45,7 @@
     "hari": "Kamis",
     "kelas": "VI (Padmanaba)",
     "mapel": "Muatan Lokal",
-    "tutor": "Pande Nyoman Gede Mudita, S.Ag., M.Pd.H.",
+    "tutor": "I Wayan Sari Budi Astawa, S.Pd.",
     "waktu": "Jam ke-1"
   },
   {
@@ -128,8 +128,8 @@
   {
     "hari": "Kamis",
     "kelas": "IX (Wiracarita)",
-    "mapel": "Muatan Lokal",
-    "tutor": "Pande Nyoman Gede Mudita, S.Ag., M.Pd.H.",
+    "mapel": "Muatan Lokal Bahasa Daerah",
+    "tutor": "I Wayan Sari Budi Astawa, S.Pd.",
     "waktu": "Jam ke-2"
   },
   {
@@ -158,7 +158,7 @@
     "kelas": "IX (Wiracarita)",
     "mapel": "Keterampilan",
     "tutor": "I Wayan Sari Budi Astawa, S.Pd.",
-    "waktu": "Jam ke-1"
+    "waktu": "Jam ke-2"
   },
   {
     "hari": "Senin",
@@ -238,13 +238,6 @@
     "waktu": "Jam ke-2"
   },
   {
-    "hari": "Sabtu",
-    "kelas": "X (Parta)",
-    "mapel": "Seni Budaya",
-    "tutor": "Gede Adistana Wira Saputra, S.Pd., M.Hum.",
-    "waktu": "Jam ke-2"
-  },
-  {
     "hari": "Senin",
     "kelas": "XI (Arjuna Wiwaha)",
     "mapel": "Geografi",
@@ -275,7 +268,7 @@
   {
     "hari": "Selasa",
     "kelas": "XI (Arjuna Wiwaha)",
-    "mapel": "Bahasa Bali",
+    "mapel": "Bahasa Daerah Bali",
     "tutor": "Pande Nyoman Gede Mudita, S.Ag., M.Pd.H.",
     "waktu": "Jam ke-2"
   },
@@ -382,7 +375,7 @@
     "kelas": "XII (Narayana)",
     "mapel": "PJOK",
     "tutor": "I Putu Hedi Susetya, S.Pd",
-    "waktu": "Jam ke-2"
+    "waktu": "Jam ke-1"
   },
   {
     "hari": "Selasa",
